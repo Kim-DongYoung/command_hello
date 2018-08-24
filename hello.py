@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // For command line git tutorial_KDY
 // First : GitHub modification
 // Second : Local repository modification
