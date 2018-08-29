@@ -1,6 +1,6 @@
-// For command line git tutorial_KDY
-// First : GitHub modification
-// Second : Local repository modification
+# For command line git tutorial_KDY
+# First : GitHub modification
+# Second : Local repository modification
 
 # import pandas as pd
 
