@@ -1,7 +1,7 @@
 # For command line git tutorial_KDY
 # First : GitHub modification
 # Second : Local repository modification
-# Third : Add python File Push
+# Third : Add python File Push -> Catch Message_180829
 
 
 
